@@ -1,0 +1,71 @@
+[{
+  "email": "admine@mundo.all",
+  "password": "12345678",
+  "role": "admin",
+  "id": "1"
+}, {
+  "email": "owner@abc.de",
+  "password": "password2",
+  "role": "owner",
+  "id": "2"
+}, {
+  "email": "user3@abc.de",
+  "password": "password3",
+  "role": "user",
+  "id": "3"
+}, {
+  "email": "user4@abc.de",
+  "password": "password4",
+  "role": "user",
+  : "4"
+}, {
+  "email": "user5@abc.de",
+  "password": "password5",
+  "role": "user",
+  "password": "5"
+}, {
+  "email": "user6@abc.de",
+  "password": "password6",
+  "role": "user",
+  "password": "6"
+}, {
+  "email": "user7@abc.de",
+  "password": "password7",
+  "role": "user",
+  "id": "7"
+}, {
+  "email": "user8@abc.de",
+  "password": "password8",
+  "role": "user",
+  "id": "8"
+}, {
+  "email": "user9@abc.de",
+  "password": "password9",
+  "role": "user",
+  "id": "9"
+}, {
+  "email": "user10@abc.de",
+  "password": "password10",
+  "role": "user",
+  "id": "10"
+}, {
+  "email": "user11@abc.de",
+  "password": "password11",
+  "role": "user",
+  "id": "11"
+}, {
+  "email": "user12@abc.de",
+  "password": "password12",
+  "role": "user",
+  "id": "12"
+}, {
+  "email": "user13@abc.de",
+  "password": "password13",
+  "role": "user",
+  "id": "13"
+}, {
+  "email": "user14@abc.de",
+  "password": "password14",
+  "role": "user",
+  "id": "14"
+}]

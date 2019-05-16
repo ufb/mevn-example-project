@@ -1,0 +1,16 @@
+.v-btn {
+  min-width: 0;
+
+  &--floating {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .v-content--xs & {
+    padding: 0 8px;
+    font-size: 13px;
+  }
+}
+.small-btn {
+  height: 20px;
+}
+bla{}

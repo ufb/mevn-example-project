@@ -1,0 +1,58 @@
+div[role="listitem"] {
+  .v-content--xs & {
+    margin: 0 8px !important;
+  }
+}
+.v-list__tile {
+  height: auto !important;
+  padding: 0 !important;
+
+  &__title {
+    margin-bottom: 5px;
+
+    .v-content--xs & {
+      white-space: normal;
+    }
+
+    .v-select-list & {
+      margin: 0;
+      padding: 0 5px;
+    }
+    &:hover {
+      a & {
+        color: #50816B !important;
+      }
+    }
+  }
+
+  &__sub-title {
+    .v-content--xs & {
+      white-space: normal;
+    }
+  }
+
+  &__content {
+    .v-content--xs & {
+      button {
+        display: none;
+      }
+    }
+  }
+}
+
+// expansion panels
+.v-expansion-panel {
+  &__body {
+    padding: 0 24px;
+  }
+  .v-subheader {
+    padding: 0;
+    height: auto;
+  }
+  .v-card__title {
+    padding-left: 0;
+  }
+  .v-list > div {
+    border: 0;
+  }
+}

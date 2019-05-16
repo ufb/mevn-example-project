@@ -1,0 +1,8 @@
+.v-toolbar {
+  transform: none !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+.v-toolbar:not(.v-toolbar--fixed) .v-toolbar__content {
+  height: auto !important;
+}

@@ -1,0 +1,18 @@
+.v-input__slot {
+  margin: 0 !important;
+
+  &:before {
+    border-color: #606060 !important;
+  }
+}
+.v-select .v-input__slot {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2px 0 2px 4px;
+
+  &:before {
+    border: 0 !important;
+  }
+}
+#list-bar .v-text-field__details {
+  display: none;
+}

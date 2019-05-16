@@ -1,0 +1,10 @@
+.v-rating {
+  margin-right: -5px;
+
+  .v-icon {
+    padding: .2rem;
+    &:first-child {
+      padding-left: 0;
+    }
+  }
+}
